@@ -1,0 +1,14 @@
+For this week I created my first React project that displays "Hello World!". The dependencies needed were: 
+
+react: the core library for building the UI. 
+
+react-dom: integrates react w/ the DOM browser. 
+
+react-script: provides the scripts and config for the react app.
+
+In order to install the libraries I first downloaded the Node.js package online. Then I ran this command in Terminal: npx create-react-app hello-world-app
+which installs the dependencies listed above and creates everything needed to create the folder the hello world app. 
+
+Goals for this week:
+Matt Kominsky and I have decided to follow through with the AI movie app. Our goals are to see what databases we can use to train our model, research on how to build a chatbot, get some more teammates, make the arcitecture plans, discuss plans,
+and get a rough design on what the UI should look like. I would also like to build the user login to have account autofill from google, apple, and phone number like in many popular apps. 
